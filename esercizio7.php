@@ -49,7 +49,7 @@
         $value = array_values($students);
    
         foreach($element as $chiave => $valore){
-                echo $key
+                echo $key["name"]
         }
         
     ?>
