@@ -45,12 +45,6 @@
 
 
     <?php foreach($students as $element){
-        $key = array_keys($students);
-        $value = array_values($students);
-   
-        foreach($element as $chiave => $valore){
-                echo $key["name"]
-        }
         
     ?>
     <?php }?>
